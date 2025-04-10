@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 * 🌍  I'm based in Hyderabad,India
-* 🖥️  See my portfolio at [My Profile](http://shubhamkumar.tech)
+* 🖥️  See my portfolio at [My Profile](http://shubham-kumar.me)
 * ✉️  You can contact me at [krshubham1514@gmail.com](mailto:krshubham1514@gmail.com)
 
 ### Skills
